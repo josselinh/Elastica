@@ -35,10 +35,5 @@
         "psr-4": {
             "Elastica\\Test\\": "test/Elastica/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.3.x-dev"
-        }
     }
 }
